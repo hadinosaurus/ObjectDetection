@@ -4,8 +4,8 @@ Download tambahan file yolov3.weights pada link www.pjreddie.com/darknet/yolo
 
 Lalu gabungkan file yolov3.weights ke dalam folder di bawah ini. 
 
-Buat folder ______pycache____
-Lalu masukkan file yolo_object_detection_web.cpython-35 DAN yolo_object_detection_web.cpython-37 ke dalam folder ______pycache_____
+Buat folder ______pycache____ __
+Lalu masukkan file yolo_object_detection_web.cpython-35 DAN yolo_object_detection_web.cpython-37 ke dalam folder ______pycache____ __
 
 Buat folder templates
 Lalu masukkan file index.html ke dalam folder templates
