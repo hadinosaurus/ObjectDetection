@@ -1,0 +1,6 @@
+
+
+set FLASK_APP=yolo_object_detection_web.py
+flask run --host=0.0.0.0
+
+D:\ilham\iam\yolo_object_detection
