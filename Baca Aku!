@@ -10,7 +10,7 @@ Buat folder templates
 Lalu masukkan file index.html ke dalam folder templates
 
 Setelah terbuat 2 file diatas, lalu klik 2x file yolo_object_detection
-VOILA! 
+|| VOILA! 
 
 Jika tidak muncul webcam, klik 2x file yolo_object_detection_web
 Buka browser
