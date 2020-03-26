@@ -1,5 +1,6 @@
 # ObjectDetection
-Download tambahan file yolov3.weights pada link www.pjreddie.com/darknet/yolo || Lalu gabungkan file yolov3.weights ke dalam folder di bawah ini. 
+Download tambahan file yolov3.weights pada link www.pjreddie.com/darknet/yolo 
+Lalu gabungkan file yolov3.weights ke dalam folder di bawah ini. 
 
 Lalu gabungkan file yolov3.weights ke dalam folder di bawah ini. 
 
